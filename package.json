@@ -1,0 +1,23 @@
+{
+  "name": "booksearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuw0l/BookSearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuw0l/BookSearch/issues"
+  },
+  "homepage": "https://github.com/yuw0l/BookSearch#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "request": "^2.88.2"
+  }
+}
