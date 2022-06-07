@@ -1,3 +1,48 @@
-#demo {
-  color: blue;
+.BookSearchForm {
+  width: 600px;
+  height: 700px;
+  border: 2px solid hsl(36, 75%, 19%);
+  border-radius: 10px;
+  background-color: #54370c;
+  text-align: center;
+}
+.titleBar {
+  border-radius: 10px;
+  border: 2px solid #54370c;
+  background-color : #ffffff;
+  padding: 10px; 
+  margin : 10px;
+  margin-left: 17px;
+  width: 90%;
+  height: 20px; 
+  color : #54370c;
+  text-align : center;
+  font-size: 22px;
+  font-weight: 500;
+}
+.Bar {
+  text-align: center;
+}
+#searchBar {
+  width: 300px;
+  height: 25px;
+  padding-left: 10px;
+  margin: 0 auto;
+  margin-top: 5px;
+}
+button {
+  padding: 6px;
+  width: 50px;
+}
+.formBody {
+  border-radius: 10px;
+  border: 2px solid #54370c;
+  background-color : #ffffff;
+  padding: 10px; 
+  margin : 10px;
+  margin-left: 17px;
+  width: 90%;
+  height: 200px; 
+  color : #54370c;
+  text-align : center;
 }
